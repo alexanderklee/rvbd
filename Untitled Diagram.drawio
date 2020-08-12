@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T17:55:58.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="sBThtYpVQvawTegPGtHP" version="13.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-12T18:07:25.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="n-GL6LHcRYVg1nEOmL4O" version="13.6.2" type="github" pages="2">
   <diagram id="haMj9Q-7-SCHEV1QTf3N" name="Page-1">
     <mxGraphModel dx="1057" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,6 +32,9 @@
         </mxCell>
         <mxCell id="_T-UqegODgsNLD7EWeNi-1" value="&lt;h1&gt;Random Commentary&lt;/h1&gt;&lt;p&gt;Below is a slide I stole from Joe Kraenzle. I particularly like this slide because it &quot;maps&quot; topics and sub-topics to our sources. I think incorporating this logic into the Advanced SteelCentral training might be good to know because it may short-circuit how the SE&#39;s talk, pitch and position SteelCentral using a more &quot;free flowing&quot; conversational approach. It also might be a good idea to talk about the data sources themselves (eg., NetFlow, SNMP, Synths, Packets) and provide a pros and cons of each approach.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="ZlFNfQ2EXaN5Kx8b1gU9-1">
           <mxGeometry x="40" y="160" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ilBuLvZ2UMlHHhXIbzoZ-0" value="&lt;h1&gt;Additional Notes&lt;/h1&gt;&lt;p&gt;* Perhaps we should include SteelCentral product limits (eg., things like host group limits and how we manage against these limits)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="ZlFNfQ2EXaN5Kx8b1gU9-1">
+          <mxGeometry x="50" y="590" width="770" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
